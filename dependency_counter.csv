@@ -1,0 +1,3 @@
+pandas/core/frame.py: 99
+pandas/core/series.py: 60
+pandas/io/parsers/readers.py: 40
